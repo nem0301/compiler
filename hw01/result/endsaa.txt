@@ -1,0 +1,13 @@
+accept: aa
+accept: aaa
+accept: baa
+accept: caa
+accept: aaaa
+accept: abaa
+accept: acaa
+accept: baaa
+accept: bbaa
+accept: bcaa
+accept: caaa
+accept: cbaa
+accept: ccaa
