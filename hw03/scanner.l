@@ -32,7 +32,7 @@ digit				[0-9]
 letter				[a-zA-Z]
 
 whitespace          [\t\r\n ]
-comments			"/*"([^*]|(\*+[^/]))*"*/"|(\/\/.*\n) 
+comments			"/*"([^*]|(\*[^/]))*"*/"|(\/\/.*\n) 
 
 
 %%
