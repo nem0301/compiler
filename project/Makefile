@@ -26,7 +26,6 @@ scanner.c:	scanner.l
 # ======================================================================
 
 clean:
-	@rm -rf .*~ *~ cm parser.c parser.h scanner.c *.o *.tm *.ps *.pdf
-	cd tests; make clean
+	@rm -rf .*~ *~ cm parser.c parser.h scanner.c *.o tests/*.tm *.ps *.pdf
 
 # ======================================================================
